@@ -1,0 +1,35 @@
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente e logs
+.env
+.env.*
+*.log
+
+# Backups
+*.bak
+*.tmp
+*.old
+*.orig
+*.swp
+
+# Builds do frontend (se houver)
+frontend/dist/
+frontend/node_modules/
+
+# Builds do backend
+Lib/
+Scripts/
+Include/
+Lib/
+Lib/site-packages/
+
