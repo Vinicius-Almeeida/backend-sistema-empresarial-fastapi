@@ -1,35 +1,34 @@
-# Cache
+# Ignora todo o ambiente virtual
+backend/venv/
+
+# Ignora arquivos de cache do Python
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# IDEs e sistema
+# Ignora banco de dados local (caso use SQLite em testes)
+*.sqlite3
+*.db
+
+# Ignora configurações do VSCode ou editores
 .vscode/
 .idea/
+
+# Ignora arquivos de log e temporários
+*.log
+*.tmp
+*.swp
+
+# Ignora arquivos do sistema operacional
 .DS_Store
 Thumbs.db
 
-# Variáveis de ambiente e logs
+# Ignora arquivos de ambiente e secrets
 .env
 .env.*
-*.log
 
-# Backups
-*.bak
-*.tmp
-*.old
-*.orig
-*.swp
-
-# Builds do frontend (se houver)
-frontend/dist/
-frontend/node_modules/
-
-# Builds do backend
-Lib/
-Scripts/
-Include/
-Lib/
-Lib/site-packages/
-
+# Ignora exportações e relatórios temporários
+*.xlsx
+*.csv
+*.pdf
