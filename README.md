@@ -114,7 +114,7 @@ Usuário → Login → JWT Token ↴
 
 **Vinícius Almeida**  
 [LinkedIn](https://www.linkedin.com/in/vinicius-quadros1990/)  
-Desenvolvedor Full Stack apaixonado por criar soluções reais com impacto direto em negócios.
+Desenvolvedor Full Stack em transição de carreira e apaixonado por criar soluções reais com impacto direto em negócios.
 
 ---
 
