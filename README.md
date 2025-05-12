@@ -1,5 +1,5 @@
 
-# 🧠 TRIXEL - Sistema Empresarial com FastAPI
+# 🧠  Sistema Empresarial com FastAPI
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Python](https://img.shields.io/badge/python-3.11-blue)
@@ -113,7 +113,7 @@ Usuário → Login → JWT Token ↴
 ## 🧑‍💻 Autor
 
 **Vinícius Almeida**  
-[LinkedIn](https://www.linkedin.com/in/vinicius-almeeida)  
+[LinkedIn](https://www.linkedin.com/in/vinicius-quadros1990/)  
 Desenvolvedor Full Stack apaixonado por criar soluções reais com impacto direto em negócios.
 
 ---
